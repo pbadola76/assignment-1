@@ -1,1 +1,3 @@
-# CS245_202001_P01
+# CS 245 - Spring 2020 - Practice Assignment 01
+
+See details on Canvas.
